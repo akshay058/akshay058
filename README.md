@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay058" alt="akshay058" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media**
+- 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning and expertising myself in **ReactJS**
 
 - 🤔 I’m looking for help with ... Certified Ethical Hacking
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, Git, SQL, Cyber Security, Finance Planning**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, Git, MongoDb, SQL, Cyber Security, Finance Planning , Ecommerce**
 
 - 📫 How to reach me **jainakshay058@gmail.com**
 
