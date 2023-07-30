@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and expertising myself in **ReactJS**
 
-- 🤔 I’m looking for help with ... Certified Ethical Hacking
+- 🤔 I’m looking for help with .... Certified Ethical Hacking
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, Git, MongoDb, SQL, Cyber Security, Finance Planning , Ecommerce**
 
