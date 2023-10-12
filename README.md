@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jainakshay058@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z87qQLzGoa5Iwvq90ihaaeOu8pg4VE0-/view?usp=sharing](https://drive.google.com/file/d/1Z87qQLzGoa5Iwvq90ihaaeOu8pg4VE0-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DUfLojFdfcUHDByB_Okcr_nfJWVvJK8g/view?usp=sharing](https://drive.google.com/file/d/1DUfLojFdfcUHDByB_Okcr_nfJWVvJK8g/view?usp=sharing)
 
 - ⚡ Fun fact **get code soon 😄 **
 
